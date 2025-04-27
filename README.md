@@ -12,4 +12,3 @@ data_dir = tf.keras.utils.get_file('flower_photos', origin=dataset_url, untar=Tr
 ```
 
 Train your model and predict flower types from images with just a few lines of code!
-```
