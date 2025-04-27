@@ -1,4 +1,3 @@
-TensorFlow Flower Classification
 # Flower Classification with TensorFlow
 
 This project uses TensorFlow and Keras to classify images of flowers (daisy, dandelion, rose, sunflower, tulip).  
